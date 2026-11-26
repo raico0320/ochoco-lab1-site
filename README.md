@@ -1,1 +1,0 @@
-# ochoco-lab1-site
